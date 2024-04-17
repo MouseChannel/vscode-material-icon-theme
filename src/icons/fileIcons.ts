@@ -353,14 +353,14 @@ export const fileIcons: FileIcons = {
     { name: 'jar', fileExtensions: ['jar'] },
     { name: 'javaclass', fileExtensions: ['class'] },
     { name: 'c', fileExtensions: ['c', 'i', 'mi'] },
-    { name: 'h', fileExtensions: ['h'] },
+    // { name: 'h', fileExtensions: ['h'] },
     {
       name: 'cpp',
       fileExtensions: ['cc', 'cpp', 'cxx', 'c++', 'cp', 'mii', 'ii'],
     },
     {
       name: 'hpp',
-      fileExtensions: ['hh', 'hpp', 'hxx', 'h++', 'hp', 'tcc', 'inl'],
+      fileExtensions: ['hh', 'hpp', 'hxx', 'h++', 'hp', 'tcc', 'inl', 'h'],
     },
     { name: 'rc', fileExtensions: ['rc'] },
     { name: 'go', fileExtensions: ['go'] },
